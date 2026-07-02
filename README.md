@@ -7,8 +7,11 @@
 • Supported Games
 
 Blox Fruits🟢
+
 Kaitun Blox Fruits🔴 (Comming Soon)
+
 Auto Bounty Blox Fruits🔴 (Comming Soon)
+
 Universal🔴 (0 Universal Active/Comming Soon)
 
 # Global Loader
